@@ -29,7 +29,6 @@ The website is built using the following technologies:
 
 - React
 - React Router
-- Tailwind CSS
 
 ## Getting Started
 
